@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\classes-239ddaa9ac92da142a2cb7a522bfbaee09b23dca.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-7bceb64fe1631a54c6cb5a366445fe098b9ad77a.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\gcm-1c9fd628fe7672c6b1354f06a04a91cc54e1cab8.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\gcm-1c9fd628fe7672c6b1354f06a04a91cc54e1cab8.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\gcm-1c9fd628fe7672c6b1354f06a04a91cc54e1cab8.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\classes-755f0ec8ad6a18ef6112c4dac400c841230f0122.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\classes-755f0ec8ad6a18ef6112c4dac400c841230f0122.jar" />
+    </item>
+    <item
+        jar="C:\Users\hai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-339886fff1ddc17c012592b87b76ecfa1b8c60ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\hai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-339886fff1ddc17c012592b87b76ecfa1b8c60ef.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\classes-239ddaa9ac92da142a2cb7a522bfbaee09b23dca.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\classes-239ddaa9ac92da142a2cb7a522bfbaee09b23dca.jar" />
+    </item>
+    <item
+        jar="C:\Users\hai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-339886fff1ddc17c012592b87b76ecfa1b8c60ef.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\classes-755f0ec8ad6a18ef6112c4dac400c841230f0122.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-7bceb64fe1631a54c6cb5a366445fe098b9ad77a.jar" />
+    </item>
+    <item
+        jar="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\DataForWin\MobileDev_VTC\Hocki1\Android\CustomListview\ChatAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-7bceb64fe1631a54c6cb5a366445fe098b9ad77a.jar" />
+    </item>
+
+</items>
